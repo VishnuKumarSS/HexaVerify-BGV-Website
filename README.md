@@ -1,4 +1,5 @@
 # Hexaware-BGV-Website
+[Figma Design Link](https://www.figma.com/file/aNMMAromB5vMaHgelBGDAk/Hexaware-BGV-Design-(Srini)?type=design&node-id=0%3A1&mode=design&t=2cgDmuNVUwCCD1U4-1)
 ## Login Page
 ![Login Page](https://github.com/VishnuKumarSS/Hexaware-BGV-Website/assets/90044424/5e25b424-0ed8-4595-ac93-316aef75f11a)
 ## Document upload page for employees
